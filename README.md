@@ -1,12 +1,27 @@
+# WordPress Learning Suite
+
 Hello, friend!
 
-Here will be listed wp-content folder from regular wordpress instalation.
+This repository stores the `wp-content` folder from a standard WordPress installation.
 
-Main purpose is to store and partially reuse functionality of any themes or plugins developed for learning purposes during numerous courses etc...
-Majority of plugins or themes listed here should be estimated as separate projects, with no guaranties to be properly combined at one WP installation.
+## Purpose
 
-All of these are free of charge, developed by personal initiative, by comleting cources or found on official storages.
-Any usage of content beneath is on your personal scare ! Joking :)
+A personal archive of themes and plugins developed for learning — through courses, experiments, and exploration. Think of it as a sandbox, not a production stack.
 
-Glad U were here!
-BRGRDS
+> **Note:** Each plugin or theme here should be treated as an independent project. There's no guarantee they'll play nicely together in a single WordPress installation.
+
+## Origin
+
+All content here is:
+
+- **Free** — no paid assets
+- **Personal** — built by personal initiative or completed as part of courses
+- **Public** — sourced from official repositories or created from scratch
+
+## Usage
+
+Use anything here at your own risk. *(Joking — mostly.)* Feel free to learn from it, adapt it, or build on it.
+
+---
+
+Glad you stopped by!
